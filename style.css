@@ -1,0 +1,17 @@
+img{
+    border:none;
+    border: 1px solid burlywood;
+    border-radius: 15px 15px 15px ;
+    box-shadow: 12px 13px 14px ;
+    margin: 15px ;
+    padding: 15px ;
+}
+h1{
+    color: #000000;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 3px 4px ;
+}
